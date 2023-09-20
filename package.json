@@ -1,0 +1,19 @@
+{
+  "name": "stickies",
+  "version": "1.0.0",
+  "description": "A post it note app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonydiethelm/Stickies.git"
+  },
+  "author": "Tony Diethelm",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/tonydiethelm/Stickies/issues"
+  },
+  "homepage": "https://github.com/tonydiethelm/Stickies#readme"
+}
